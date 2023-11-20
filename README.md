@@ -1,3 +1,5 @@
 # Online Guessing Game 
+Created by: Quang Tran
 
-# In progress .
+# Prerequisites
+- Need live server
